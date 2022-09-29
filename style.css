@@ -1,0 +1,28 @@
+.hidn{
+color: blue;
+background-color: yellow;
+height: 400px;
+width: 300px;
+border: 2px solid black;
+}
+.saqr{
+background-color: aqua;
+border-radius: 50%;
+
+height: 400px;
+width: 300px;
+}
+.triang{
+ 
+  width: 0;
+height: 0;
+border-style: solid;
+border-width: 0 200px 200px 200px;
+border-color: transparent transparent #007bff transparent;
+  
+}
+.gop{
+
+  margin: 10px;
+  
+}
